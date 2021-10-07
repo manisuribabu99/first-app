@@ -20,7 +20,7 @@ function FormTodo({ addTodo }) {
           placeholder="Enter a Text"
         />
   
-        <Button type="submit">Add</Button>
+        <Button type="Submit">Add</Button>
       </Form>
     );
   }
