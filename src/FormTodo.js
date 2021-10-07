@@ -17,7 +17,7 @@ function FormTodo({ addTodo }) {
           className="input"
           value={value}
           onChange={e => setValue(e.target.value)}
-          placeholder="enter a text"
+          placeholder="Enter a Text"
         />
   
         <Button type="submit">Add</Button>
