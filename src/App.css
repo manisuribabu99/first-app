@@ -35,4 +35,7 @@
   to {
     transform: rotate(360deg);
   }
+}.Appspace{
+  display: flex;
+  justify-content: space-between;
 }
